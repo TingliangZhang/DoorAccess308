@@ -15,6 +15,14 @@
 
 
 
+继电器
+
+https://detail.tmall.com/item.htm?id=15909056050
+
+普普通通的5V继电器模块带光耦隔离
+
+
+
 PN532红板
 
 PN532 NFC RFID module V3 kits
@@ -46,6 +54,14 @@ http://www.openedv.com/docs/modules/other/ATK-301.html
 [STM32CubeMX系列教程1:GPIO](https://www.waveshare.net/study/article-630-1.html)
 
 https://www.st.com/zh/evaluation-tools/nucleo-g474re.html
+
+
+
+## 硬件连接
+
+普普通通继电器的输出端NC和COM连接插座里面的线
+
+输入端三根线：DC+接5V，DC-接0V，IN接GPIO，选择High跳线，高电平触发
 
 
 
