@@ -1,4 +1,8 @@
 # DoorAccess308
+备注，308目前的灯管是PHILIPS Essential TL5 28W/865 YZ28RR16/G飞利浦高效率日光灯，一共8个
+
+
+
 庭梁自己写的308的门禁，STM32+PN532+数字小键盘+指纹
 
 
